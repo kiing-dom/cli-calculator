@@ -104,7 +104,7 @@ To test the endpoints:
 - **Network Issues**: Verify that Docker is correctly mapping ports and that the application is running on the expected port.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kiing-dom/cli-calculator/blob/master/LICENSE) file for details.
 
 ### Contributing
 Feel free to fork the repo and submit pull requests. Make sure the changes include appropriate tests, and keep the project coding style in mind.
